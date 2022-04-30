@@ -1,0 +1,34 @@
+{
+  "favorito": [
+    {
+      "nomb": "Kity",
+      "raz": "Bombay",
+      "img": "https://i.ibb.co/rKBf4Z4/gato2.jpg",
+      "id": 1
+    },
+    {
+      "nomb": "Chester",
+      "raz": "Golden retriever",
+      "img": "https://i.ibb.co/nsxG80m/perro2.jpg",
+      "id": 2
+    },
+    {
+      "nomb": "Pelusa ",
+      "raz": "Birmano",
+      "img": "https://i.ibb.co/HB5nHCb/gato3.jpg",
+      "id": 3
+    },
+    {
+      "nomb": "Rocky",
+      "raz": "Rottweiler",
+      "img": "https://i.ibb.co/WDfQyqB/perro1.jpg",
+      "id": 4
+    },
+    {
+      "nomb": "Bombón",
+      "raz": "Gato americano ",
+      "img": "https://i.ibb.co/rZWphyC/gato4.jpg",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: pink !important;
+}
+
+.perfil{
+    font-size: 25px;
+}
+
+.contenedor{
+    margin: 20px 0 100px 0;
+}
+.foto, .id{
+    display: none;
+}
+.input{
+    border-radius: 5px;
+}
+.user{
+    text-align: center;
+}
+#modificar{
+    text-decoration: none;
+    color: black;
+}
+#boton{
+    width: 100%;
+    border-radius: 15px;
+    background-color: #0E172C;
+}

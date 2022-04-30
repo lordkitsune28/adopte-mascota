@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: pink !important;
+}
+
+.btn{
+    background-color: #0E172C !important;
+    color: white !important;
+    width: 156px;
+    height: 80px;
+}
+
+.contenedores{
+    column-count: 2;
+}
+
+.ima{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.imagen{
+    position: relative;
+}
+
+.card-body{
+    width: 100%;
+    position: absolute;
+    background-image: linear-gradient(transparent, black);
+    color: white;
+    text-align: left;
+    bottom: 0;
+}

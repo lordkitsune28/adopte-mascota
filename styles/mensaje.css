@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: pink !important;
+}
+
+#banner{
+    width: 100%;
+    background-color: white;
+    height: 100% !important;
+    top: 0;
+}
+
+#back{
+    position: absolute;
+width: 44px;
+height: 44px;
+left: 24px;
+top: 24px;
+background: #0E172C;
+border-radius: 100px;
+}
+
+.perfil{
+    width: 60%;
+    margin: 5px auto 5px auto;
+    color: black;
+}
+
+.img{
+    width: 120px !important;
+    margin: 0px auto 5px auto;
+}
+
+.hora{
+    text-align: center;
+}
+
+#mensaje1{
+    float: right;
+    width: 300px;
+    height: 90px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    
+}
+
+#mensaje2{
+    float: left;
+    width: 300px;
+    height: 60%;
+    padding: 20px;
+    background-color: #535353;
+    color: white;
+    border-radius: 12px;
+    
+}
+
+#part2{
+    position: absolute;
+    bottom: 3px;
+    width: 100%;
+    float: left;
+    left: 0px;
+}
